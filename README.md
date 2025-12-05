@@ -1,6 +1,6 @@
 # VisitorLog_PDFD
 
-[![DOI](https://doi.org/10.5281/zenodo.17807586.svg)](https://doi.org/10.5281/zenodo.17807586)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17807586.svg)](https://doi.org/10.5281/zenodo.17807586)
 
 This repository contains the source code for a Minimum Viable Product (MVP) developed to support the research paper, **"Formally and Empirically Verified Methodologies for Scalable Hierarchical Full-Stack Systems"**
 
