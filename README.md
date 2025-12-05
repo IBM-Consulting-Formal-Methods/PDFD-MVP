@@ -1,8 +1,8 @@
 # VisitorLog_PDFD
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16883985.svg)](https://doi.org/10.5281/zenodo.16883985)
+[![DOI](https://doi.org/10.5281/zenodo.17807586.svg)](https://doi.org/10.5281/zenodo.17807586)
 
-This repository contains the source code for a Minimum Viable Product (MVP) developed to support the research paper, **"PBFD and PDFD: Formally Defined and Verified Methodologies and Empirical Evaluation for Scalable Full-Stack Software Engineering."**
+This repository contains the source code for a Minimum Viable Product (MVP) developed to support the research paper, **"Formally and Empirically Verified Methodologies for Scalable Hierarchical Full-Stack Systems"**
 
 This is an ASP.NET MVC web application that allows users to log and track their visits to different continents around the world. The application is built using the **Primary Depth-First Development (PDFD)** methodology.
 
